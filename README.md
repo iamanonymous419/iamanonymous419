@@ -1,5 +1,6 @@
 # Hi👋🏻, I'm Anonymous - Web Dev | DevOps | Full Stack Web Developer
 
+[![GitHub followers](https://img.shields.io/github/followers/iamanonymous419?label=Follow&style=social)](https://github.com/iamanonymous419)
 [![Profile Views](https://visitcountpro.netlify.app/api?id=iamanonymous419&pretty=true)](https://github.com/iamanonymous419)
 
 ##  👨‍💻 Featured Creations

@@ -45,7 +45,7 @@ const me = {
 
 ## 🌐 Web Development
 
-### 🧑‍�� **Frontend**
+### 🧑‍ **Frontend**
 [![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)](https://reactjs.org/)
 [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 [![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
@@ -148,7 +148,7 @@ const me = {
 -->
 
 ## 📚 Currently Learning
-- �� **Rust**: Exploring systems programming and compiled languages.
+- 🦀 **Rust**: Exploring systems programming and compiled languages.
 - ⚙️ **DevOps**: Deploying web projects with CI/CD and exploring Infrastructure as Code (IaC).
 
 ## ✨ Favorite Quote

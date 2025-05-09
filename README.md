@@ -123,6 +123,32 @@ const me = {
 ### 🔐 **Security Scanning**
 [![Trivy](https://img.shields.io/badge/Trivy-0F172A?style=flat&logoColor=white)](https://github.com/aquasecurity/trivy)
 
+## 📆 My Learning Journey
+
+```markdown
+Start of My Career
+        |
+        |——— HTML (August 2023)
+        |——— CSS (November 2023)
+        |——— JavaScript (December 2023)
+        |——— Git & GitHub (January 2024)
+        |——— React + Tailwind CSS (March 2024)
+        |——— SCSS (April 2024)
+        |——— Node.js & Express.js (June 2024)
+        |——— MongoDB & NestJS (June 2024)
+        |——— MySQL & PostgreSQL (July 2024)
+        |——— Prisma ORM (August 2024)
+        |——— Next.js (September 2024)
+        |——— Docker (October 2024)
+        |——— Kubernetes (December 2024)
+        |——— Bash Scripting & Linux (January 2025)
+        |——— Terraform & Ansible (February 2025)
+        |——— AWS, EKS, Trivy, Jenkins, Grafana, Prometheus, ArgoCD – via Project MarketVerse (March 2025)
+        |——— AWS & its Services Deep Dive (April 2025)
+        |
+     Present Day
+```
+
 </details>
 
 ## 📈 GitHub Stats

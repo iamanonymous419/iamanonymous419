@@ -119,6 +119,15 @@ const me = {
 
 ### ☁️ **Cloud**
 [![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white)](https://aws.amazon.com/)
+[![AWS EKS](https://img.shields.io/badge/AWS-EKS-orange?logo=amazon-aws&logoColor=white)](https://docs.aws.amazon.com/eks/)
+[![AWS ECR](https://img.shields.io/badge/AWS-ECR-9cf?logo=amazon-aws&logoColor=white)](https://docs.aws.amazon.com/AmazonECR/)
+[![AWS ECS](https://img.shields.io/badge/AWS-ECS-blue?logo=amazon-aws&logoColor=white)](https://docs.aws.amazon.com/AmazonECS/)
+[![AWS IAM](https://img.shields.io/badge/AWS-IAM-yellow?logo=amazon-aws&logoColor=white)](https://docs.aws.amazon.com/IAM/)
+[![AWS S3](https://img.shields.io/badge/AWS-S3-red?logo=amazon-aws&logoColor=white)](https://docs.aws.amazon.com/AmazonS3/)
+[![AWS DynamoDB](https://img.shields.io/badge/AWS-DynamoDB-blueviolet?logo=amazon-aws&logoColor=white)](https://docs.aws.amazon.com/amazondynamodb/)
+[![AWS RDS](https://img.shields.io/badge/AWS-RDS-success?logo=amazon-aws&logoColor=white)](https://docs.aws.amazon.com/AmazonRDS/)
+[![AWS VPC](https://img.shields.io/badge/AWS-VPC-lightgrey?logo=amazon-aws&logoColor=white)](https://docs.aws.amazon.com/vpc/)
+[![AWS EC2](https://img.shields.io/badge/AWS-EC2-brown?logo=amazon-aws&logoColor=white)](https://docs.aws.amazon.com/ec2/)
 
 ### 🔐 **Security Scanning**
 [![Trivy](https://img.shields.io/badge/Trivy-0F172A?style=flat&logoColor=white)](https://github.com/aquasecurity/trivy)
@@ -154,7 +163,6 @@ const me = {
 ## 📈 GitHub Stats
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=iamanonymous419&theme=dracula)](https://github.com/iamanonymous419)
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=iamanonymous419&layout=compact&theme=dracula)](https://github.com/iamanonymous419)
 [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=iamanonymous419&show_icons=true&theme=dracula)](https://github.com/iamanonymous419)
 

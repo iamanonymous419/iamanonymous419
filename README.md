@@ -187,7 +187,7 @@ const me = {
 
 ## ✨ Favorite Quote
 
-> "The more I explore, the more I realize how little I truly know."
+> "The more I explore, the more I realize how little I truly know."   
 > — *Anonymous*
 
 ## 🦀 Thanks for Visiting!

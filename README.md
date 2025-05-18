@@ -187,8 +187,8 @@ const me = {
 
 ## ✨ Favorite Quote
 
-> “Code is like humor. When you have to explain it, it’s bad.”  
-> — *Cory House*
+> "The more I explore, the more I realize how little I truly know."
+> — *Anonymous*
 
 ## 🦀 Thanks for Visiting!
 

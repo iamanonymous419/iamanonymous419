@@ -32,7 +32,7 @@ const me = {
   nickname: 'Anonymous', 
   pronouns: 'he/him',
   desc: 'I am a Web Developer and DevOps expert. I can build full-stack projects from scratch and deploy them to production.',
-  code: [Javascript, Typescript, HTML, CSS],
+  code: [Javascript, Typescript, Python, HTML, CSS],
   focus: [
     'Backend Development', 
     'Full Stack Development', 
@@ -66,6 +66,7 @@ const me = {
 
 ### 🧠 **Backend**
 [![Node.js](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white)](https://nodejs.org/)
+[![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)](https://www.python.org/)
 [![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat&logo=express&logoColor=white)](https://expressjs.com/)
 [![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=flat&logo=nestjs&logoColor=white)](https://nestjs.com/)
 [![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=flat&logo=prisma&logoColor=white)](https://www.prisma.io/)
@@ -157,7 +158,8 @@ const me = {
         |——— 📦 Terraform & 🧰 Ansible (February 2025)
         |——— ☁️ AWS, ☸️ EKS, 🔍 Trivy, 🧪 Jenkins, 📊 Grafana, 📈 Prometheus, 🚀 ArgoCD, 🌿 Drizzle ORM – via Project MarketVerse (March 2025)
         |——— 🧠 AWS & its Services Deep Dive (April 2025)
-        |
+        |——— 🐍 Python (May 2025)
+        | 
 📍 Present Day
 ```
 
@@ -178,14 +180,12 @@ const me = {
 - [![Reddit](https://img.shields.io/badge/Reddit-FF4500?style=flat&logo=reddit&logoColor=white)](https://www.reddit.com/u/Anonymous292009)
 - [![X](https://img.shields.io/badge/X-000000?style=flat&logo=x&logoColor=white)](https://x.com/Anonymous292009)
 - [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/anonymous22009)
-<!--
- later add Portfolio and LinkedIn 
-- 💼 [LinkedIn](https://www.linkedin.com/in/yourprofile)  
-- 🌐 [Portfolio Website](https://yourwebsite.com)  
--->
+- [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/debbag2009)
+- [![Portfolio Website](https://img.shields.io/badge/Portfolio-000000?style=flat&logo=firefox&logoColor=white)](https://portfolio-pink-sigma-72.vercel.app)
 
 ## 📚 Currently Learning
 - 🦀 **Rust**: Exploring systems programming and compiled languages.
+- 🐍 **python** : Mastering Python for DevOps automation, backend development, and infrastructure scripting.
 - ⚙️ **DevOps**: Deploying web projects with CI/CD and exploring Infrastructure as Code (IaC).
 
 ## ✨ Favorite Quote

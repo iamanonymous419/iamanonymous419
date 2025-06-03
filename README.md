@@ -38,7 +38,8 @@ const me = {
     'Full Stack Development', 
     'Infrastructure as Code', 
     'CI/CD Automation', 
-    'DevOps'
+    'DevOps',
+    'DevSecOps'
   ]
 }
 ```
@@ -101,6 +102,7 @@ const me = {
 ### 🔄 **CI/CD**
 [![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=flat&logo=jenkins&logoColor=white)](https://www.jenkins.io/)
 [![ArgoCD](https://img.shields.io/badge/ArgoCD-F47560?style=flat&logo=argo&logoColor=white)](https://argoproj.github.io/cd/)
+[![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat&logo=github-actions&logoColor=white)](https://github.com/features/actions)
 
 ### 🔧 **Version Control**
 [![Git](https://img.shields.io/badge/-Git-000?style=for-the-badge&logo=git)](https://git-scm.com/)
@@ -133,8 +135,13 @@ const me = {
 [![AWS VPC](https://img.shields.io/badge/AWS-VPC-lightgrey?logo=amazon-aws&logoColor=white)](https://docs.aws.amazon.com/vpc/)
 [![AWS EC2](https://img.shields.io/badge/AWS-EC2-brown?logo=amazon-aws&logoColor=white)](https://docs.aws.amazon.com/ec2/)
 
-### 🔐 **Security Scanning**
-[![Trivy](https://img.shields.io/badge/Trivy-0F172A?style=flat&logoColor=white)](https://github.com/aquasecurity/trivy)
+### 🛡️ **Security Scanning**
+[![Trivy](https://img.shields.io/badge/Trivy-0F172A?style=flat&logo=trivy&logoColor=white)](https://github.com/aquasecurity/trivy)
+[![SonarQube](https://img.shields.io/badge/SonarQube-4E9BCD?style=flat&logo=sonarqube&logoColor=white)](https://www.sonarqube.org/)
+[![OWASP ZAP](https://img.shields.io/badge/OWASP_ZAP-00549E?style=flat&logo=owasp&logoColor=white)](https://owasp.org/www-project-zap/)
+
+### 🔐 **Secrets Management**
+[![HashiCorp Vault](https://img.shields.io/badge/HashiCorp_Vault-000000?style=flat&logo=vault&logoColor=white)](https://www.vaultproject.io/)
 
 ## 📆 My Learning Journey
 
@@ -158,7 +165,8 @@ const me = {
         |——— 📦 Terraform & 🧰 Ansible (February 2025)
         |——— ☁️ AWS, ☸️ EKS, 🔍 Trivy, 🧪 Jenkins, 📊 Grafana, 📈 Prometheus, 🚀 ArgoCD, 🌿 Drizzle ORM – via Project MarketVerse (March 2025)
         |——— 🧠 AWS & its Services Deep Dive (April 2025)
-        |——— 🐍 Python (May 2025)
+        |——— 🔍 SonarQube, 🛡️ OWASP & 🔐 HashiCorp Vault (May 2025)
+        |——— 🐍 Python (June 2025)
         | 
 📍 Present Day
 ```

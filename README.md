@@ -165,8 +165,9 @@ const me = {
         |——— 📦 Terraform & 🧰 Ansible (February 2025)
         |——— ☁️ AWS, ☸️ EKS, 🔍 Trivy, 🧪 Jenkins, 📊 Grafana, 📈 Prometheus, 🚀 ArgoCD, 🌿 Drizzle ORM – via Project MarketVerse (March 2025)
         |——— 🧠 AWS & its Services Deep Dive (April 2025)
-        |——— 🔍 SonarQube, 🛡️ OWASP & 🔐 HashiCorp Vault (May 2025)
-        |——— 🐍 Python (June 2025)
+        |——— 🔍 SonarQube, 🛡️ OWASP (May 2025)  
+        |——— 🔐 HashiCorp Vault & 🔧 GitHub Actions (June 2025)  
+        |——— 🐍 Python (July 2025)  
         | 
 📍 Present Day
 ```

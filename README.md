@@ -169,7 +169,7 @@ const me = {
         |——— 🧠 AWS & its Services Deep Dive (April 2025)
         |——— 🔍 SonarQube, 🛡️ OWASP (May 2025)  
         |——— 🔐 HashiCorp Vault & 🔧 GitHub Actions (June 2025)  
-        |——— 🌼 daisyUI & ⚙️ CircleCI (July 2025)  
+        |——— 🌼 DaisyUI & ⚙️ CircleCI (July 2025)  
         |——— 🐍 Python (August 2025)
         | 
 📍 Present Day

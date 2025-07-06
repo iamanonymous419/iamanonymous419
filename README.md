@@ -59,6 +59,7 @@ const me = {
 [![RTK Query](https://img.shields.io/badge/RTK_Query-764ABC?style=flat&logo=redux&logoColor=white)](https://redux-toolkit.js.org/rtk-query/overview)
 [![TanStack Query](https://img.shields.io/badge/TanStack_Query-FF4154?style=flat&logo=react-query&logoColor=white)](https://tanstack.com/query)
 [![React Router](https://img.shields.io/badge/React_Router-CA4245?style=flat&logo=react-router&logoColor=white)](https://reactrouter.com/)
+[![daisyUI](https://img.shields.io/badge/daisyUI-7F1D1D?style=flat&logo=tailwindcss&logoColor=white)](https://daisyui.com/)
 
 ### 🎨 **Styling**
 [![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/CSS)
@@ -103,6 +104,7 @@ const me = {
 [![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=flat&logo=jenkins&logoColor=white)](https://www.jenkins.io/)
 [![ArgoCD](https://img.shields.io/badge/ArgoCD-F47560?style=flat&logo=argo&logoColor=white)](https://argoproj.github.io/cd/)
 [![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat&logo=github-actions&logoColor=white)](https://github.com/features/actions)
+[![CircleCI](https://img.shields.io/badge/-CircleCI-ffffff?style=flat&logo=circleci&logoColor=343434&labelColor=ffffff)](https://circleci.com/)
 
 ### 🔧 **Version Control**
 [![Git](https://img.shields.io/badge/-Git-000?style=for-the-badge&logo=git)](https://git-scm.com/)
@@ -167,7 +169,8 @@ const me = {
         |——— 🧠 AWS & its Services Deep Dive (April 2025)
         |——— 🔍 SonarQube, 🛡️ OWASP (May 2025)  
         |——— 🔐 HashiCorp Vault & 🔧 GitHub Actions (June 2025)  
-        |——— 🐍 Python (July 2025)  
+        |——— 🌼 daisyUI & ⚙️ CircleCI (July 2025)  
+        |——— 🐍 Python (August 2025)
         | 
 📍 Present Day
 ```
@@ -194,7 +197,7 @@ const me = {
 
 ## 📚 Currently Learning
 - 🦀 **Rust**: Exploring systems programming and compiled languages.
-- 🐍 **python** : Mastering Python for DevOps automation, backend development, and infrastructure scripting.
+- 🐍 **Python** : Mastering Python for DevOps automation, backend development, and infrastructure scripting.
 - ⚙️ **DevOps**: Deploying web projects with CI/CD and exploring Infrastructure as Code (IaC).
 
 ## ✨ Favorite Quote

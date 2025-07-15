@@ -14,6 +14,13 @@
 ### [🔗 Marketverse GitOps](https://github.com/iamanonymous419/marketverse-gitops)  
 > DevOps infrastructure for the Marketverse project featuring **ArgoCD** and **Jenkins** for continuous integration and continuous deployment, complete with **Infrastructure as Code** using **Terraform**, configuration management with **Ansible**, and container/image vulnerability scanning using **Trivy**.  
 
+### [🔗 CircleCI DevOps Orbs](https://github.com/iamanonymous419/orbs)  
+> Production-ready **CircleCI Orbs** for automating Docker workflows, static code analysis, and security scanning.  
+> Built and published to the [Orb Registry](https://circleci.com/developer/orbs) with reusable components like:  
+> • 🐳 [`docker`](https://circleci.com/developer/orbs/orb/iamanonymous419/docker) for `login`, `build`, `tag`, `push`  
+> • 🧠 [`sonar`](https://circleci.com/developer/orbs/orb/iamanonymous419/sonar) for SonarCloud code scanning.  
+> • 🔐 [`trivy`](https://circleci.com/developer/orbs/orb/iamanonymous419/trivy) for container image vulnerability scanning.
+
 ### [🔗 Terraform Custom EC2 Module](https://registry.terraform.io/modules/iamanonymous419/ec2-module/aws/latest)  
 > Published Terraform module for launching **AWS EC2 Spot** and **On-Demand Instances**. Helps explore module creation and usage.
 

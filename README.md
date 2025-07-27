@@ -6,13 +6,28 @@
 ##  👨‍💻 Featured Creations
 
 ### [🔗 Portfolio](https://portfolio-pink-sigma-72.vercel.app)  
-> **Next.js** portfolio showcasing featured projects, comprehensive tech stack, and professional connections.
+> **Next.js** portfolio showcasing featured projects, comprehensive tech stack, and professional connections.   
+> • ⚛️ `Next.js` for SSR/SSG & routing  
+> • 🎨 `Tailwind CSS` for utility-first styling  
+> • 🌐 `Vercel` for deployment  
 
 ### [🔗 Marketverse](https://marketverse-phi.vercel.app)  
-> A feature-rich **e-commerce platform** built with **Next.js** that enables users to buy and sell products. Implements modern UI with ShadCN, secure authentication, and responsive design.
+> A feature-rich **e-commerce platform** built with **Next.js** that enables users to buy and sell products. Implements modern UI with ShadCN, secure authentication, and responsive design.   
+> • ⚛️ `Next.js` with App Router  
+> • 🎨 `ShadCN + Tailwind CSS` for UI  
+> • 🔐 `Clerk` for auth  
+> • 🛒 `Zod`, `React Hook Form` for form validation & payments  
+> • ☁️ `Vercel` for deployment  
 
 ### [🔗 Marketverse GitOps](https://github.com/iamanonymous419/marketverse-gitops)  
-> DevOps infrastructure for the Marketverse project featuring **ArgoCD** and **Jenkins** for continuous integration and continuous deployment, complete with **Infrastructure as Code** using **Terraform**, configuration management with **Ansible**, and container/image vulnerability scanning using **Trivy**.  
+> Enterprise-grade DevOps infrastructure for the Marketverse project featuring **ArgoCD** and **Jenkins** for CI/CD, complete with **Infrastructure as Code** using **Terraform**, configuration management with **Ansible**, container/image vulnerability scanning using **Trivy**, comprehensive logging with **EFK Stack**, and monitoring/alerting with **Prometheus**, **Grafana**, and **Alertmanager**.  
+> • 🚀 `ArgoCD`, `Jenkins` for CI/CD  
+> • ⚙️ `Terraform`, `Ansible` for IaC & CM  
+> • 🐳 `Docker`, `Kubernetes`  
+> • 🔐 `Trivy` for security scanning  
+> • 📊 `EFK Stack` (Elasticsearch, Fluentd, Kibana) for centralized logging  
+> • 📈 `Prometheus` & `Grafana` for monitoring & visualization  
+> • 🚨 `Alertmanager` with Slack integration for alerting  
 
 ### [🔗 CircleCI DevOps Orbs](https://github.com/iamanonymous419/orbs)  
 > Production-ready **CircleCI Orbs** for automating Docker workflows, static code analysis, and security scanning.  
@@ -21,14 +36,21 @@
 > • 🧠 [`sonar`](https://circleci.com/developer/orbs/orb/iamanonymous419/sonar) for SonarCloud code scanning.  
 > • 🔐 [`trivy`](https://circleci.com/developer/orbs/orb/iamanonymous419/trivy) for container image vulnerability scanning.
 
-### [🔗 Terraform Custom EC2 Module](https://registry.terraform.io/modules/iamanonymous419/ec2-module/aws/latest)  
-> Published Terraform module for launching **AWS EC2 Spot** and **On-Demand Instances**. Helps explore module creation and usage.
+### [🔗 Terraform Custom EC2 Module](https://github.com/iamanonymous419/terraform-aws-ec2-module)  
+> Published Terraform module for launching **AWS EC2 Spot** and **On-Demand Instances**. Helps explore module creation and usage.  
+> • ☁️ `AWS` provider  
+> • 🏗️ [`Terraform`](https://registry.terraform.io/modules/iamanonymous419/ec2-module/aws/latest) v1.x modules  
+> • ⚙️ Configurable `Spot` and `On-Demand` logic  
+> • 📦 Published on Terraform Registry
 
-### [🔗 Anoverse (npm package)](https://www.npmjs.com/package/anoverse)  
-> Custom **NPM package** published and integrated with the Marketverse project, showcasing package development and distribution expertise.
+### [🔗 Anoverse (npm package)](https://github.com/iamanonymous419/anoverse)  
+> Custom **NPM package** published and integrated with the Marketverse project, showcasing package development and distribution expertise.  
+> • 📦 [`npm`](https://www.npmjs.com/package/anoverse) scoped package  
 
 ### [🔗 Marketverse Banking API](https://github.com/iamanonymous419/marketverse-banking)  
-> Backend banking API developed with **NestJS** and **MongoDB**, simulating basic financial transactions for Marketverse EcoSystem.
+> Backend banking API developed with **NestJS** and **MongoDB**, simulating basic financial transactions for Marketverse EcoSystem.  
+> • 🚀 `NestJS` for structured backend architecture  
+> • 🍃 `MongoDB` for database
 
 <p align="right"><i> ...developing more projects that push boundaries 😉 </i></p>
 
@@ -106,6 +128,12 @@ const me = {
 ### 📊 **Monitoring**
 [![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=flat&logo=prometheus&logoColor=white)](https://prometheus.io/)
 [![Grafana](https://img.shields.io/badge/Grafana-F46800?style=flat&logo=grafana&logoColor=white)](https://grafana.com/)
+[![Alertmanager](https://img.shields.io/badge/Alertmanager-E6522C?style=flat&logo=prometheus&logoColor=white)](https://prometheus.io/docs/alerting/latest/alertmanager/)
+
+### 📝 **Logging**
+[![Elasticsearch](https://img.shields.io/badge/Elasticsearch-20A7C9?style=flat\&logo=elasticsearch\&logoColor=white)](https://www.elastic.co/elasticsearch/)
+[![Filebeat](https://img.shields.io/badge/Filebeat-4EA94B?style=flat\&logo=elastic\&logoColor=white)](https://www.elastic.co/beats/filebeat)
+[![Kibana](https://img.shields.io/badge/Kibana-DA70D6?style=flat\&logo=kibana\&logoColor=white)](https://www.elastic.co/kibana)
 
 ### 🔄 **CI/CD**
 [![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=flat&logo=jenkins&logoColor=white)](https://www.jenkins.io/)
@@ -144,6 +172,10 @@ const me = {
 [![AWS VPC](https://img.shields.io/badge/AWS-VPC-lightgrey?logo=amazon-aws&logoColor=white)](https://docs.aws.amazon.com/vpc/)
 [![AWS EC2](https://img.shields.io/badge/AWS-EC2-brown?logo=amazon-aws&logoColor=white)](https://docs.aws.amazon.com/ec2/)
 
+### 💬 **Communication & Notifications**
+[![Slack](https://img.shields.io/badge/Slack-4A154B?style=flat&logo=slack&logoColor=white)](https://slack.com/)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white)](https://gmail.com/)
+
 ### 🛡️ **Security Scanning**
 [![Trivy](https://img.shields.io/badge/Trivy-0F172A?style=flat&logo=trivy&logoColor=white)](https://github.com/aquasecurity/trivy)
 [![SonarQube](https://img.shields.io/badge/SonarQube-4E9BCD?style=flat&logo=sonarqube&logoColor=white)](https://www.sonarqube.org/)
@@ -152,34 +184,53 @@ const me = {
 ### 🔐 **Secrets Management**
 [![HashiCorp Vault](https://img.shields.io/badge/HashiCorp_Vault-000000?style=flat&logo=vault&logoColor=white)](https://www.vaultproject.io/)
 
-## 📆 My Learning Journey
+# 🚀 My Tech Learning Journey
 
-```markdown
-🎯 Start of My Learning Journey
-        |
-        |——— 🌐 HTML (August 2023)
-        |——— 🎨 CSS (November 2023)
-        |——— 💻 JavaScript (December 2023)
-        |——— 🗃️ Git & GitHub (January 2024)
-        |——— ⚛️ React + 💨 Tailwind CSS (March 2024)
-        |——— 💅 SCSS (April 2024)
-        |——— 🟩 Node.js & 🚂 Express.js (June 2024)
-        |——— 🍃 MongoDB & 🧱 NestJS (June 2024)
-        |——— 🐬 MySQL & 🐘 PostgreSQL (July 2024)
-        |——— 🧩 Prisma ORM (August 2024)
-        |——— 🔥 Next.js (September 2024)
-        |——— 🐳 Docker (October 2024)
-        |——— ☸️ Kubernetes (December 2024)
-        |——— 🐚 Bash Scripting & 🐧 Linux (January 2025)
-        |——— 📦 Terraform & 🧰 Ansible (February 2025)
-        |——— ☁️ AWS, ☸️ EKS, 🔍 Trivy, 🧪 Jenkins, 📊 Grafana, 📈 Prometheus, 🚀 ArgoCD, 🌿 Drizzle ORM – via Project MarketVerse (March 2025)
-        |——— 🧠 AWS & its Services Deep Dive (April 2025)
-        |——— 🔍 SonarQube, 🛡️ OWASP (May 2025)  
-        |——— 🔐 HashiCorp Vault & 🔧 GitHub Actions (June 2025)  
-        |——— 🌼 DaisyUI & ⚙️ CircleCI (July 2025)  
-        |——— 🐍 Python (August 2025)
-        | 
-📍 Present Day
+## 📅 Timeline Overview
+
+### 2023 - Foundation Year
+```
+🎯 START
+ ├─ 🌐 HTML                     (August 2023)
+ ├─ 🎨 CSS                      (November 2023) 
+ └─ 💻 JavaScript               (December 2023)
+```
+
+### 2024 - Building Skills
+```
+ ├─ 🗃️ Git & GitHub             (January 2024)
+ ├─ ⚛️ React + 💨 Tailwind CSS  (March 2024)
+ ├─ 💅 SCSS                     (April 2024)
+ ├─ 🟩 Node.js & 🚂 Express.js  (June 2024)
+ ├─ 🍃 MongoDB & 🧱 NestJS      (June 2024)
+ ├─ 🐬 MySQL & 🐘 PostgreSQL    (July 2024)
+ ├─ 🧩 Prisma ORM               (August 2024)
+ ├─ 🔥 Next.js                  (September 2024)
+ └─ 🐳 Docker                   (October 2024)
+```
+
+### 2025 - Advanced & DevOps
+```
+ ├─ ☸️ Kubernetes               (December 2024)
+ ├─ 🐚 Bash & 🐧 Linux          (January 2025)
+ ├─ 📦 Terraform & 🧰 Ansible   (February 2025)
+ ├─ 🎯 PROJECT: MarketVerse     (March 2025)
+ │   ├─ ☁️ AWS & EKS
+ │   ├─ 🔍 Trivy & 🧪 Jenkins
+ │   ├─ 📊 Grafana & 📈 Prometheus
+ │   ├─ 🚀 ArgoCD
+ │   └─ 🌿 Drizzle ORM
+ ├─ 🧠 AWS Deep Dive            (April 2025)
+ ├─ 🔍 SonarQube & 🛡️ OWASP    (May 2025)
+ ├─ 🔐 Vault & 🔧 GitHub Actions (June 2025)
+ ├─ 🌼 DaisyUI & ⚙️ CircleCI    (July 2025)
+ ├─ 🌐 Nginx, 🧪 Jest, EFK Stack & 💬 Slack (August 2025)
+ │   ├─ 🔍 Elasticsearch
+ │   ├─ 📝 Filebeat
+ │   ├─ 📊 Kibana
+ │   └─ 💬 Slack
+ ├─ 🐍 Python                   (September 2025)
+ └─ 📍 Present Day
 ```
 
 </details>

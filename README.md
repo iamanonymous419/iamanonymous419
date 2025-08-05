@@ -5,13 +5,13 @@
 
 ##  👨‍💻 Featured Creations
 
-### [🔗 Portfolio](https://portfolio-pink-sigma-72.vercel.app)  
+### [🔗 Portfolio](https://iamanonymous.in)  
 > **Next.js** portfolio showcasing featured projects, comprehensive tech stack, and professional connections.   
 > • ⚛️ `Next.js` for SSR/SSG & routing  
 > • 🎨 `Tailwind CSS` for utility-first styling  
 > • 🌐 `Vercel` for deployment  
 
-### [🔗 Marketverse](https://marketverse-phi.vercel.app)  
+### [🔗 Marketverse](https://marketverse.iamanonymous.in)  
 > A feature-rich **e-commerce platform** built with **Next.js** that enables users to buy and sell products. Implements modern UI with ShadCN, secure authentication, and responsive design.   
 > • ⚛️ `Next.js` with App Router  
 > • 🎨 `ShadCN + Tailwind CSS` for UI  

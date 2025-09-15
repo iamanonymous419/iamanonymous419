@@ -10,14 +10,16 @@
 > • ⚛️ `Next.js` for SSR/SSG & routing  
 > • 🎨 `Tailwind CSS` for utility-first styling  
 > • 🌐 `Vercel` for deployment  
+> • 🌍 `Hostinger` for custom domain management  
 
 ### [🔗 Marketverse](https://marketverse.iamanonymous.in)  
-> A feature-rich **e-commerce platform** built with **Next.js** that enables users to buy and sell products. Implements modern UI with ShadCN, secure authentication, and responsive design.   
+> A feature-rich **E-commerce platform** built with **Next.js** that enables users to buy and sell products. Implements modern UI with ShadCN, secure authentication, and responsive design.   
 > • ⚛️ `Next.js` with App Router  
 > • 🎨 `ShadCN + Tailwind CSS` for UI  
 > • 🔐 `Clerk` for auth  
 > • 🛒 `Zod`, `React Hook Form` for form validation & payments  
 > • ☁️ `Vercel` for deployment  
+> • 🌍 `Hostinger` for custom domain management
 
 ### [🔗 Marketverse GitOps](https://github.com/iamanonymous419/marketverse-gitops)  
 > Enterprise-grade DevOps infrastructure for the Marketverse project featuring **ArgoCD** and **Jenkins** for CI/CD, complete with **Infrastructure as Code** using **Terraform**, configuration management with **Ansible**, container/image vulnerability scanning using **Trivy**, comprehensive logging with **EFK Stack**, and monitoring/alerting with **Prometheus**, **Grafana**, and **Alertmanager**.  
@@ -28,6 +30,19 @@
 > • 📊 `EFK Stack` (Elasticsearch, Fluentd, Kibana) for centralized logging  
 > • 📈 `Prometheus` & `Grafana` for monitoring & visualization  
 > • 🚨 `Alertmanager` with Slack integration for alerting  
+
+### [🔗 Streamify](https://github.com/iamanonymous419/streamify)  
+> A comprehensive **3-tier streaming application** originally from [Codesistency](https://www.youtube.com/watch?v=ZuwigEmwsTM&t=275s), enhanced with enterprise-grade **Kubernetes deployment** and **DevOps automation**. Features a complete **MERN stack** architecture deployed from development (Minikube) to production (AWS EKS).  
+> • ⚛️ `React` frontend served via `Nginx`  
+> • 🚂 `Express.js` backend API  
+> • 🍃 `MongoDB` database  
+> • ☸️ `Minikube` → `AWS EKS` deployment pipeline  
+> • 🔄 `CircleCI` for automated CI/CD  
+> • 🌐 `Kubernetes Ingress` for global accessibility  
+> • 🐳 Custom [`Docker`](https://hub.docker.com/repositories/anonymous292009) containers with multi-stage builds  
+> • 🧠 [`SonarQube`](https://sonarcloud.io/project/overview?id=iamanonymous419_streamify) for code quality analysis  
+> • 🔐 `Trivy` for container security scanning  
+> • 📦 Custom CircleCI Orbs: [`docker`](https://circleci.com/developer/orbs/orb/iamanonymous419/docker), [`sonar`](https://circleci.com/developer/orbs/orb/iamanonymous419/sonar), [`trivy`](https://circleci.com/developer/orbs/orb/iamanonymous419/trivy)
 
 ### [🔗 CircleCI DevOps Orbs](https://github.com/iamanonymous419/orbs)  
 > Production-ready **CircleCI Orbs** for automating Docker workflows, static code analysis, and security scanning.  
@@ -119,6 +134,8 @@ const me = {
 [![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=next.js&logoColor=white)](https://nextjs.org/)
 [![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=flat&logo=graphql&logoColor=white)](https://graphql.org/)
 [![Cloudinary](https://img.shields.io/badge/Cloudinary-3448C5?style=flat&logo=cloudinary&logoColor=white)](https://cloudinary.com/)
+[![Hostinger](https://img.shields.io/badge/Hostinger-673DE6?style=flat&logo=hostinger&logoColor=white)](https://www.hostinger.com/in)
+[![Stream](https://img.shields.io/badge/Stream-005FFF?style=flat&logo=stream&logoColor=white)](https://getstream.io/)
 
 ## ⚙️ DevOps
 
